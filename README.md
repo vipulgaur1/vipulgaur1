@@ -1,35 +1,47 @@
-# 💫 About Me
-🔭 I’m currently working on Python projects and data manipulation with Numpy & Pandas  
+# About Me
 
-👯 I’m looking to collaborate on Python-based projects or data-focused coding challenges  
-
-🤝 I’m looking for help with improving Python skills and solving real-world data problems  
-
-🌱 I’m currently learning Numpy, Pandas, and data cleaning techniques  
-
-💬 Ask me about Python coding, datasets, or my GitHub projects  
-
-⚡ Fun fact: I love turning raw data into meaningful insights with code  
+Data Analyst focused on building practical analytics and machine learning projects using Python, SQL, and Power BI. Currently pursuing MCA at Manipal University Jaipur with hands-on experience in data analysis, visualization, and predictive modeling.
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-gaur-388310210/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ivipulgaur1127@gmail.com)
+## 🚀 Featured Projects
+
+### 📌 Student Academic Risk Prediction System
+
+* Built a Flask-based machine learning system to identify academically at-risk students
+* Achieved 95% model accuracy using classification models and feature analysis
+* Developed using Python, Pandas, Scikit-learn, and Flask
+
+### 📌 Credit Risk & Loan Default Analysis
+
+* Analyzed 300K+ loan records using SQL, Python, and Power BI
+* Identified high-risk customer segments and default behavior trends
+* Built interactive dashboards and analytical reports for risk analysis
 
 ---
 
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=matplotlib&logoColor=black) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white)
+## 💻 Tech Stack
+
+* Python
+* SQL / MySQL
+* Pandas
+* NumPy
+* Power BI
+* Scikit-learn
+* Matplotlib
+* Flask
+* Git & GitHub
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📜 Certifications
+
+* Python for Data Science – IIT Madras (NPTEL)
+* MAT 98 Percentile
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/vipul-gaur-388310210/)
+📧 [ivipulgaur1127@gmail.com](mailto:ivipulgaur1127@gmail.com)
