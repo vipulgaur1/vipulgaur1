@@ -37,7 +37,6 @@ Data Analyst focused on building practical analytics and machine learning projec
 ## 📜 Certifications
 
 * Python for Data Science – IIT Madras (NPTEL)
-* MAT 98 Percentile
 
 ---
 
