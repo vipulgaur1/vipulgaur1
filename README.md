@@ -12,12 +12,6 @@ Data Analyst focused on building practical analytics and machine learning projec
 * Achieved 95% model accuracy using classification models and feature analysis
 * Developed using Python, Pandas, Scikit-learn, and Flask
 
-### 📌 Credit Risk & Loan Default Analysis
-
-* Analyzed 300K+ loan records using SQL, Python, and Power BI
-* Identified high-risk customer segments and default behavior trends
-* Built interactive dashboards and analytical reports for risk analysis
-
 ---
 
 ## 💻 Tech Stack
